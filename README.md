@@ -9,5 +9,12 @@ We may provide the start date and end date along with symbol using which we plot
 
  #OUTPUT SCREENSHOT
  
- ![image](https://user-images.githubusercontent.com/63337063/132577254-23804184-6b3f-4c7d-a435-4260808fe57d.png)
+ 
+ ![image](https://user-images.githubusercontent.com/63337063/132578714-b0051d79-c670-42f7-bf0d-1633b421632d.png)
+
+![image](https://user-images.githubusercontent.com/63337063/132578729-c0d059bc-89b5-477d-b397-a352a27c15b8.png)
+
+ 
+ 
+
 
