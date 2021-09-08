@@ -7,10 +7,14 @@ Tkinter is used to develop GUI applications. It supports a variety of widgets as
 We may provide the start date and end date along with symbol using which we plot OHLC.
 
 
- #OUTPUT SCREENSHOT
+ #OUTPUT SCREENSHOTS
+ 
+ #HOME PAGE
  
  
  ![image](https://user-images.githubusercontent.com/63337063/132578714-b0051d79-c670-42f7-bf0d-1633b421632d.png)
+ 
+ #APPLICATION
 
 ![image](https://user-images.githubusercontent.com/63337063/132578729-c0d059bc-89b5-477d-b397-a352a27c15b8.png)
 
