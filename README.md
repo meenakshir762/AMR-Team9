@@ -9,7 +9,7 @@ We may provide the start date and end date along with symbol using which we plot
 
  ## OUTPUT SCREENSHOTS
  
- ## HOME PAGE
+ ### HOME PAGE
  
  
  ![image](https://user-images.githubusercontent.com/63337063/132578714-b0051d79-c670-42f7-bf0d-1633b421632d.png)
